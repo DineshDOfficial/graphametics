@@ -18,5 +18,14 @@
     <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\visualizations\RotatingCube.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\visualizations\RotatingCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="HELPER.txt" />
   </ItemGroup>
 </Project>
